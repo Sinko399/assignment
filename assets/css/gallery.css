@@ -1,0 +1,50 @@
+*{
+    background-color: grey;
+}
+
+.home{
+    text-decoration: none;
+}
+
+.gallery-container h1{
+    text-shadow: 2px 3px rgb(185, 179, 179);
+    margin-left: 30%;
+}
+
+.gallery-container .gallery .bicycle{
+   border-radius: 50px;
+   margin-bottom: 10%;
+   margin-left: 20%;
+}
+
+.gallery-container .gallery .car{
+    border-radius: 50px;
+    border-radius: 50px;
+    margin-bottom: 10%;
+    margin-left: 20%;
+}
+
+.gallery-container .gallery .hiking{
+    border-radius: 50px;
+    border-radius: 50px;
+    margin-bottom: 10%;
+    margin-left: 20%;
+}
+
+.gallery-container .gallery .nature{
+    border-radius: 50px;
+    border-radius: 50px;
+    margin-bottom: 10%;
+    margin-left: 20%;
+}
+
+.gallery-container .gallery .skating{
+    border-radius: 50px;
+     border-radius: 50px;
+    margin-bottom: 10%;
+    margin-left: 20%;
+}
+
+.fa-home{
+    color: black;
+}

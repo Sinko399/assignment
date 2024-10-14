@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(211, 199, 199);
+}
+
+.home{
+    text-decoration: none;
+}
+.container .workers{
+    text-shadow: 2px 3px grey;
+}
+.container .table{
+    margin: auto;
+    border: solid;
+}
+
+.fa-home{
+    color: black;
+}

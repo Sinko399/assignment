@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(112, 94, 94);
+}
+
+.container h1{
+    text-shadow: 2px 3px grey;
+    margin-left: 20%;
+}
+
+.container .form-username{
+    margin-bottom: 5%;
+}
+
+.container .form-email{
+    margin-bottom: 5%;
+}
+
+.container .form-password{
+    margin-bottom: 5%;
+}
+
+.container .form-confirm{
+    margin-bottom: 5%;
+}
+
+.fa-home{
+    color: black;
+}

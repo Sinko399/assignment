@@ -1,0 +1,43 @@
+*{
+    background-color: aliceblue;
+}
+
+.one{
+    text-shadow: 2px 3px grey;
+    font-size: 3em;
+    margin-left: 20%;
+}
+
+.cv{
+    margin-left: 30%;
+}
+
+.two{
+    text-shadow: 2px 3px grey;
+    font-size: 3em;
+    margin-left: 20%;
+}
+
+.table{
+    margin-left: 30%;
+}
+
+.three{
+    text-shadow: 2px 3px grey;
+    font-size: 3em;
+    margin-left: 20%;
+}
+
+.gallery{
+    margin-left: 30%;
+}
+
+.four{
+    text-shadow: 2px 3px grey;
+    font-size: 3em;
+    margin-left: 20%;
+}
+
+.registration{
+    margin-left: 30%;
+}

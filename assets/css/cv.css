@@ -1,0 +1,76 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.home{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+.container .social{
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.container .profile h2{
+    text-shadow: 2px 3px grey;
+}
+
+.container .education h2{
+    text-shadow: 2px 3px grey;
+}
+
+.container .recognitions h2{
+    text-shadow: 2px 3px grey;
+}
+
+.container .skill h2{
+    text-shadow: 2px 3px grey;
+}
+
+.container .certification h2{
+    text-shadow: 2px 3px grey;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.fa-linkedin{
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.fa-whatsapp{
+    color: rgb(20, 185, 20);
+}
+
+.fa-twitter{
+    color: rgb(46, 46, 187);
+}
+
+.fa-home{
+    color: black;
+}
